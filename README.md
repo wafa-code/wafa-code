@@ -9,7 +9,7 @@
 
 - 🌟 I'm a Junior Developer with a master's degree in Software Engineering, aspire to be a Senior developer.
 - 🔭  I'm working as a Freelancer in developing Desktop applications and in developing websites using different technologies.
-- 🌱 I'm currently trying to learn Spring Boot Framework. I enjoy learning new technologies to improve my skills and build great and premium products.
+- 🌱 I'm currently trying to learn Spring Boot Framework. I enjoy learning new technologies to build premium products.
 - ✨ I'm interested in Artificial Intelligence and Agent-Oriented Programming using java and AgentSpeak.
 - 😄 Pronouns: She/Her/Hers
 <!-- - ⚡ Fun fact: ... -->
@@ -17,7 +17,8 @@
 <!-- - 📫   How to reach me: ... -->
 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2>   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+Skills </h2>
 <div>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
@@ -33,5 +34,7 @@
 </div>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/wafa-h'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-
+<div>
+<a href = 'https://www.linkedin.com/in/wafa-h'> <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://github.com/wafa-code'> <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+</div>  

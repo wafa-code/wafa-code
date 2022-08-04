@@ -17,7 +17,7 @@
 <!-- - 📫   How to reach me: ... -->
 
 
-<h2>   <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
+<h2> <img src = "images/34-account-outline.gif" width = 32px> 
 Skills </h2>
 <div>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
@@ -33,8 +33,11 @@ Skills </h2>
 <img width ='48px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'>
 </div>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> <img src = "images/47-account-outline.gif" width = 32px> Connect with me </h2>
 <div>
 <a href = 'https://www.linkedin.com/in/wafa-h'> <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://github.com/wafa-code'> <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </div>  
+
+<h2> <img src = "images/178-account-outline.gif" width = 32px> My Portfolio </h2>
+<a href = 'https://wafa-portfolio.webflow.io/'> Click here <a/>

@@ -4,7 +4,7 @@
 
 
 
-<h2> About Me </h2>
+<h2><img src = "images/8-account-outline.gif" width = 32px> About Me </h2>
 
 
 - 🌟 I'm a Junior Developer with a master's degree in Software Engineering, aspire to be a Senior developer.

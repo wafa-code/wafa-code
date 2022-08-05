@@ -4,6 +4,7 @@
 <div align="center"><img src = ""></div>
 
 
+
 <h2><img src = "images/8-account-outline.gif" width = 32px> About Me </h2>
 
 

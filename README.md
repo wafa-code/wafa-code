@@ -11,7 +11,7 @@
 - 🔭  I'm working as a Freelancer in developing Desktop applications and in developing websites using different technologies.
 - 🌱 I'm currently trying to learn Spring Boot Framework. I enjoy learning new technologies to build premium products.
 - ✨ I'm interested in Artificial Intelligence and Agent-Oriented Programming using java and AgentSpeak.
-- 😄 Pronouns: She/Her/Hers
+- 😄 Pronouns: She / Her
 <!-- - ⚡ Fun fact: ... -->
 <!-- - 👯   I’m looking to collaborate on ... -->
 <!-- - 📫   How to reach me: ... -->

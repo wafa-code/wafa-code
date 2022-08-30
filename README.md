@@ -40,5 +40,5 @@ Skills </h2>
 <a href = 'https://github.com/wafa-code'> <img width = '32px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 </div>  
 
-<h2> <img src = "images/178-work-outline.gif" width = 32px> My Portfolio </h2>
-<a href = 'https://wafa-portfolio.webflow.io/'> Click here <a/>
+<!--<h2> <img src = "images/178-work-outline.gif" width = 32px> My Portfolio </h2>
+<a href = 'https://wafa-portfolio.webflow.io/'> Click here <a/>-->

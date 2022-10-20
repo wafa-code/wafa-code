@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 , I am Wafa .h </h1>
+<h1 align="center">Hi there 👋 , I am Wafa </h1>
 <h4 align="center">I am a Software Engineer, I enjoy building things and bringing ideas to ✨ life ✨ on my machine.</h4>
 <br>
 <div align="center"><img src = ""></div>

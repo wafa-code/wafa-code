@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 , I am Wafa </h1>
-<h4 align="center">I am a Full Stack Developer, I enjoy building things and bringing ideas to ✨ life ✨ on my machine.</h4>
+<h4 align="center">I am a Full Stack Developer, Building things and bringing ideas to ✨ life ✨ are very enjoyable for me.</h4>
 <br>
 <div align="center"><img src = ""></div>
 
@@ -10,7 +10,7 @@
 
 - 🌟 I'm a Junior Developer with a master's degree in Software Engineering, aspire to be a Senior developer.
 - 🔭  I'm working as a Freelancer in developing websites using different technologies.
-- 🌱 I'm currently trying to learn Spring Boot Framework. I enjoy learning new technologies to build premium products.
+- 🌱 I'm currently learning Spring Boot Framework. I enjoy learning new technologies to build premium products.
 - ✨ I'm interested in Artificial Intelligence and Agent-Oriented Programming using java and AgentSpeak.
 - 😄 Pronouns: She / Her
 <!-- - ⚡ Fun fact: ... -->
